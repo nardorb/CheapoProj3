@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<MESSAGESSTORE>
+  <MESSAGE>
+    <ID>1</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>Testing</SUBJECT>
+    <BODY>This is just to test the system to see if the XML is working properly&#13;
+</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>4</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>Testing</SUBJECT>
+    <BODY>This is just to test the system to see if the XML is working properly&#13;
+</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>3</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>Testing</SUBJECT>
+    <BODY>This is just to test the system to see if the XML is working properly&#13;
+</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>5</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>Testing</SUBJECT>
+    <BODY>This is just to test the system to see if the XML is working properly&#13;
+</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>1</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>123</SUBJECT>
+    <BODY>123</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>4</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>123</SUBJECT>
+    <BODY>123</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>3</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>123</SUBJECT>
+    <BODY>123</BODY>
+  </MESSAGE>
+  <MESSAGE>
+    <ID>5</ID>
+    <TO>3</TO>
+    <FROM>3</FROM>
+    <SUBJECT>123</SUBJECT>
+    <BODY>123</BODY>
+  </MESSAGE>
+</MESSAGESSTORE>
